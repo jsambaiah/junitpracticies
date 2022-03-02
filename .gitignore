@@ -25,3 +25,7 @@ hs_err_pid*
 # Destination files #
 bin/
 .DS_Store
+target/*
+.settings/
+.project
+.classpath
